@@ -12,4 +12,24 @@ PYTHON MODULES
 
 6. NUMPY : used for scientific mathematics 
 
-7. 
+7. PANDAS : used for creating and workign with dataframes 
+
+8. KIVY : used for mobile apps or touch interfaces, also for gestures 
+
+9. BEAUTIFUl SOUP : usedfor web scraping 
+
+10. MECHENICAL SOUP : this is also for web scraping from databases 
+
+11. SELENIUM : this is for dynamic web scraping 
+
+12. SCRAPPY : this is a framework for web scraping and processing on that data 
+
+13. SQLITE : creating serverless db on the python project 
+
+14. PILLOW : used for image editing 
+
+15. MATPLOTLIB : data visualization 
+
+16. SYMPY : used for symbolic maths 
+
+17. SCIPY : used for scientific calculations
