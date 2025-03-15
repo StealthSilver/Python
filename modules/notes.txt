@@ -33,3 +33,5 @@ PYTHON MODULES
 16. SYMPY : used for symbolic maths 
 
 17. SCIPY : used for scientific calculations
+
+18. SCIKIT LEARN : used for running ML models 
