@@ -1,3 +1,15 @@
 PYTHON MODULES 
 
-1. PYGAME : develop video games in python
+1. PYGAME : develop 2D video games in python
+
+2. TENSORFLOW : library for machine learning 
+
+3. PYTORCH : library used to create neural networks 
+
+4. TKINTER : used to create GUI for widgets 
+
+5. OPENCV : library for image recognition, real time object detection , face tracking, augmented reality 
+
+6. NUMPY : used for scientific mathematics 
+
+7. 
