@@ -35,3 +35,15 @@ PYTHON MODULES
 17. SCIPY : used for scientific calculations
 
 18. SCIKIT LEARN : used for running ML models 
+
+19. PYBRAIN : it was used to develop neural networks before pytorch and tensorflow 
+
+20. THEANO : used for numerical computation
+
+21.
+
+22.
+
+23.
+
+24.
