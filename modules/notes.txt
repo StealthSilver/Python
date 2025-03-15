@@ -42,8 +42,32 @@ PYTHON MODULES
 
 21. NATURAL LANGUAGE TOOLKIT : library for natural language processing
 
-22.
+22. PICKLE : library for serialization 
 
-23.
+23. PYGLET : library for creating cross platform games
 
-24.
+24. V-PYTHON : creating 3d graphics 
+
+25. TURTLE : library for drawing
+
+26. RPY : package for using R in the python project 
+
+27. SPACY : library for advanced natural language processing 
+
+28. BOKEH : creating data visualization on any data structure 
+
+29. PLOTLY : interactive graphy and charts 
+
+30. SQLALCHEMY : library for creating relational databases
+
+31. FASTAPI : creating apis in python 
+
+32. DJANGO : creating backend of websites 
+
+33. FLASK : creating backend for small sacle applications 
+
+34. PYWIN32 : used for accessing WIN 32 OS 
+
+35. PY2EXE : converting python applications for desktop programs 
+
+36. PYQT : creating GUI and cross-plaform applications in python
